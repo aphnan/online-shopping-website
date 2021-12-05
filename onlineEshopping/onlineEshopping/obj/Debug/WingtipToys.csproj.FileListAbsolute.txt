@@ -1,0 +1,322 @@
+D:\COCS308-SEmI-2018-2019\CSharpPrograms\Lab07ShopToys\WingtipToys\WingtipToys\bin\ApplicationInsights.config
+D:\COCS308-SEmI-2018-2019\CSharpPrograms\Lab07ShopToys\WingtipToys\WingtipToys\bin\roslyn\csc.exe
+D:\COCS308-SEmI-2018-2019\CSharpPrograms\Lab07ShopToys\WingtipToys\WingtipToys\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\COCS308-SEmI-2018-2019\CSharpPrograms\Lab07ShopToys\WingtipToys\WingtipToys\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\COCS308-SEmI-2018-2019\CSharpPrograms\Lab07ShopToys\WingtipToys\WingtipToys\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\COCS308-SEmI-2018-2019\CSharpPrograms\Lab07ShopToys\WingtipToys\WingtipToys\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\COCS308-SEmI-2018-2019\CSharpPrograms\Lab07ShopToys\WingtipToys\WingtipToys\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\COCS308-SEmI-2018-2019\CSharpPrograms\Lab07ShopToys\WingtipToys\WingtipToys\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\COCS308-SEmI-2018-2019\CSharpPrograms\Lab07ShopToys\WingtipToys\WingtipToys\bin\roslyn\System.Collections.Immutable.dll
+D:\COCS308-SEmI-2018-2019\CSharpPrograms\Lab07ShopToys\WingtipToys\WingtipToys\bin\roslyn\System.Reflection.Metadata.dll
+D:\COCS308-SEmI-2018-2019\CSharpPrograms\Lab07ShopToys\WingtipToys\WingtipToys\bin\roslyn\vbc.exe
+D:\COCS308-SEmI-2018-2019\CSharpPrograms\Lab07ShopToys\WingtipToys\WingtipToys\bin\roslyn\VBCSCompiler.exe
+D:\COCS308-SEmI-2018-2019\CSharpPrograms\Lab07ShopToys\WingtipToys\WingtipToys\bin\roslyn\VBCSCompiler.exe.config
+D:\COCS308-SEmI-2018-2019\CSharpPrograms\Lab07ShopToys\WingtipToys\WingtipToys\bin\WingtipToys.dll.config
+D:\COCS308-SEmI-2018-2019\CSharpPrograms\Lab07ShopToys\WingtipToys\WingtipToys\bin\WingtipToys.dll
+D:\COCS308-SEmI-2018-2019\CSharpPrograms\Lab07ShopToys\WingtipToys\WingtipToys\bin\WingtipToys.pdb
+D:\COCS308-SEmI-2018-2019\CSharpPrograms\Lab07ShopToys\WingtipToys\WingtipToys\bin\Antlr3.Runtime.dll
+D:\COCS308-SEmI-2018-2019\CSharpPrograms\Lab07ShopToys\WingtipToys\WingtipToys\bin\AspNet.ScriptManager.bootstrap.dll
+D:\COCS308-SEmI-2018-2019\CSharpPrograms\Lab07ShopToys\WingtipToys\WingtipToys\bin\AspNet.ScriptManager.jQuery.dll
+D:\COCS308-SEmI-2018-2019\CSharpPrograms\Lab07ShopToys\WingtipToys\WingtipToys\bin\EntityFramework.dll
+D:\COCS308-SEmI-2018-2019\CSharpPrograms\Lab07ShopToys\WingtipToys\WingtipToys\bin\EntityFramework.SqlServer.dll
+D:\COCS308-SEmI-2018-2019\CSharpPrograms\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.AI.Agent.Intercept.dll
+D:\COCS308-SEmI-2018-2019\CSharpPrograms\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.AI.DependencyCollector.dll
+D:\COCS308-SEmI-2018-2019\CSharpPrograms\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\COCS308-SEmI-2018-2019\CSharpPrograms\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\COCS308-SEmI-2018-2019\CSharpPrograms\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.AI.Web.dll
+D:\COCS308-SEmI-2018-2019\CSharpPrograms\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.AI.WindowsServer.dll
+D:\COCS308-SEmI-2018-2019\CSharpPrograms\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.ApplicationInsights.dll
+D:\COCS308-SEmI-2018-2019\CSharpPrograms\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\COCS308-SEmI-2018-2019\CSharpPrograms\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.AspNet.Identity.Core.dll
+D:\COCS308-SEmI-2018-2019\CSharpPrograms\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\COCS308-SEmI-2018-2019\CSharpPrograms\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\COCS308-SEmI-2018-2019\CSharpPrograms\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\COCS308-SEmI-2018-2019\CSharpPrograms\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\COCS308-SEmI-2018-2019\CSharpPrograms\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.Owin.dll
+D:\COCS308-SEmI-2018-2019\CSharpPrograms\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\COCS308-SEmI-2018-2019\CSharpPrograms\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.Owin.Security.Cookies.dll
+D:\COCS308-SEmI-2018-2019\CSharpPrograms\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.Owin.Security.dll
+D:\COCS308-SEmI-2018-2019\CSharpPrograms\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.Owin.Security.Facebook.dll
+D:\COCS308-SEmI-2018-2019\CSharpPrograms\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.Owin.Security.Google.dll
+D:\COCS308-SEmI-2018-2019\CSharpPrograms\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\COCS308-SEmI-2018-2019\CSharpPrograms\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.Owin.Security.OAuth.dll
+D:\COCS308-SEmI-2018-2019\CSharpPrograms\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.Owin.Security.Twitter.dll
+D:\COCS308-SEmI-2018-2019\CSharpPrograms\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\COCS308-SEmI-2018-2019\CSharpPrograms\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.ScriptManager.WebForms.dll
+D:\COCS308-SEmI-2018-2019\CSharpPrograms\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.Web.Infrastructure.dll
+D:\COCS308-SEmI-2018-2019\CSharpPrograms\Lab07ShopToys\WingtipToys\WingtipToys\bin\Newtonsoft.Json.dll
+D:\COCS308-SEmI-2018-2019\CSharpPrograms\Lab07ShopToys\WingtipToys\WingtipToys\bin\Owin.dll
+D:\COCS308-SEmI-2018-2019\CSharpPrograms\Lab07ShopToys\WingtipToys\WingtipToys\bin\System.Web.Optimization.dll
+D:\COCS308-SEmI-2018-2019\CSharpPrograms\Lab07ShopToys\WingtipToys\WingtipToys\bin\System.Web.Providers.dll
+D:\COCS308-SEmI-2018-2019\CSharpPrograms\Lab07ShopToys\WingtipToys\WingtipToys\bin\WebGrease.dll
+D:\COCS308-SEmI-2018-2019\CSharpPrograms\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.AI.DependencyCollector.xml
+D:\COCS308-SEmI-2018-2019\CSharpPrograms\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\COCS308-SEmI-2018-2019\CSharpPrograms\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.AI.Web.xml
+D:\COCS308-SEmI-2018-2019\CSharpPrograms\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.AI.WindowsServer.xml
+D:\COCS308-SEmI-2018-2019\CSharpPrograms\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.ApplicationInsights.xml
+D:\COCS308-SEmI-2018-2019\CSharpPrograms\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\COCS308-SEmI-2018-2019\CSharpPrograms\Lab07ShopToys\WingtipToys\WingtipToys\bin\System.Web.Optimization.xml
+D:\COCS308-SEmI-2018-2019\CSharpPrograms\Lab07ShopToys\WingtipToys\WingtipToys\bin\Antlr3.Runtime.pdb
+D:\COCS308-SEmI-2018-2019\CSharpPrograms\Lab07ShopToys\WingtipToys\WingtipToys\bin\Newtonsoft.Json.xml
+D:\COCS308-SEmI-2018-2019\CSharpPrograms\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\COCS308-SEmI-2018-2019\CSharpPrograms\Lab07ShopToys\WingtipToys\WingtipToys\bin\EntityFramework.xml
+D:\COCS308-SEmI-2018-2019\CSharpPrograms\Lab07ShopToys\WingtipToys\WingtipToys\bin\EntityFramework.SqlServer.xml
+D:\COCS308-SEmI-2018-2019\CSharpPrograms\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.AspNet.Identity.Core.xml
+D:\COCS308-SEmI-2018-2019\CSharpPrograms\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\COCS308-SEmI-2018-2019\CSharpPrograms\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\COCS308-SEmI-2018-2019\CSharpPrograms\Lab07ShopToys\WingtipToys\WingtipToys\bin\System.Web.Providers.xml
+D:\COCS308-SEmI-2018-2019\CSharpPrograms\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.Owin.xml
+D:\COCS308-SEmI-2018-2019\CSharpPrograms\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\COCS308-SEmI-2018-2019\CSharpPrograms\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.Owin.Security.xml
+D:\COCS308-SEmI-2018-2019\CSharpPrograms\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.Owin.Security.Facebook.xml
+D:\COCS308-SEmI-2018-2019\CSharpPrograms\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.Owin.Security.Cookies.xml
+D:\COCS308-SEmI-2018-2019\CSharpPrograms\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.Owin.Security.Google.xml
+D:\COCS308-SEmI-2018-2019\CSharpPrograms\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.Owin.Security.Twitter.xml
+D:\COCS308-SEmI-2018-2019\CSharpPrograms\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\COCS308-SEmI-2018-2019\CSharpPrograms\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.Owin.Security.OAuth.xml
+D:\COCS308-SEmI-2018-2019\CSharpPrograms\Lab07ShopToys\WingtipToys\WingtipToys\obj\Debug\WingtipToys.csprojResolveAssemblyReference.cache
+D:\COCS308-SEmI-2018-2019\CSharpPrograms\Lab07ShopToys\WingtipToys\WingtipToys\obj\Debug\WingtipToys.dll
+D:\COCS308-SEmI-2018-2019\CSharpPrograms\Lab07ShopToys\WingtipToys\WingtipToys\obj\Debug\WingtipToys.pdb
+D:\COCS308-ProgrammingIII\COCS308-MiniProject\Lab07ShopToys\WingtipToys\WingtipToys\bin\ApplicationInsights.config
+D:\COCS308-ProgrammingIII\COCS308-MiniProject\Lab07ShopToys\WingtipToys\WingtipToys\bin\roslyn\csc.exe
+D:\COCS308-ProgrammingIII\COCS308-MiniProject\Lab07ShopToys\WingtipToys\WingtipToys\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\COCS308-ProgrammingIII\COCS308-MiniProject\Lab07ShopToys\WingtipToys\WingtipToys\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\COCS308-ProgrammingIII\COCS308-MiniProject\Lab07ShopToys\WingtipToys\WingtipToys\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\COCS308-ProgrammingIII\COCS308-MiniProject\Lab07ShopToys\WingtipToys\WingtipToys\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\COCS308-ProgrammingIII\COCS308-MiniProject\Lab07ShopToys\WingtipToys\WingtipToys\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\COCS308-ProgrammingIII\COCS308-MiniProject\Lab07ShopToys\WingtipToys\WingtipToys\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\COCS308-ProgrammingIII\COCS308-MiniProject\Lab07ShopToys\WingtipToys\WingtipToys\bin\roslyn\System.Collections.Immutable.dll
+D:\COCS308-ProgrammingIII\COCS308-MiniProject\Lab07ShopToys\WingtipToys\WingtipToys\bin\roslyn\System.Reflection.Metadata.dll
+D:\COCS308-ProgrammingIII\COCS308-MiniProject\Lab07ShopToys\WingtipToys\WingtipToys\bin\roslyn\vbc.exe
+D:\COCS308-ProgrammingIII\COCS308-MiniProject\Lab07ShopToys\WingtipToys\WingtipToys\bin\roslyn\VBCSCompiler.exe
+D:\COCS308-ProgrammingIII\COCS308-MiniProject\Lab07ShopToys\WingtipToys\WingtipToys\bin\roslyn\VBCSCompiler.exe.config
+D:\COCS308-ProgrammingIII\COCS308-MiniProject\Lab07ShopToys\WingtipToys\WingtipToys\bin\WingtipToys.dll.config
+D:\COCS308-ProgrammingIII\COCS308-MiniProject\Lab07ShopToys\WingtipToys\WingtipToys\bin\WingtipToys.dll
+D:\COCS308-ProgrammingIII\COCS308-MiniProject\Lab07ShopToys\WingtipToys\WingtipToys\bin\WingtipToys.pdb
+D:\COCS308-ProgrammingIII\COCS308-MiniProject\Lab07ShopToys\WingtipToys\WingtipToys\bin\Antlr3.Runtime.dll
+D:\COCS308-ProgrammingIII\COCS308-MiniProject\Lab07ShopToys\WingtipToys\WingtipToys\bin\AspNet.ScriptManager.bootstrap.dll
+D:\COCS308-ProgrammingIII\COCS308-MiniProject\Lab07ShopToys\WingtipToys\WingtipToys\bin\AspNet.ScriptManager.jQuery.dll
+D:\COCS308-ProgrammingIII\COCS308-MiniProject\Lab07ShopToys\WingtipToys\WingtipToys\bin\EntityFramework.dll
+D:\COCS308-ProgrammingIII\COCS308-MiniProject\Lab07ShopToys\WingtipToys\WingtipToys\bin\EntityFramework.SqlServer.dll
+D:\COCS308-ProgrammingIII\COCS308-MiniProject\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.AI.Agent.Intercept.dll
+D:\COCS308-ProgrammingIII\COCS308-MiniProject\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.AI.DependencyCollector.dll
+D:\COCS308-ProgrammingIII\COCS308-MiniProject\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\COCS308-ProgrammingIII\COCS308-MiniProject\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\COCS308-ProgrammingIII\COCS308-MiniProject\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.AI.Web.dll
+D:\COCS308-ProgrammingIII\COCS308-MiniProject\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.AI.WindowsServer.dll
+D:\COCS308-ProgrammingIII\COCS308-MiniProject\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.ApplicationInsights.dll
+D:\COCS308-ProgrammingIII\COCS308-MiniProject\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\COCS308-ProgrammingIII\COCS308-MiniProject\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.AspNet.Identity.Core.dll
+D:\COCS308-ProgrammingIII\COCS308-MiniProject\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\COCS308-ProgrammingIII\COCS308-MiniProject\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\COCS308-ProgrammingIII\COCS308-MiniProject\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\COCS308-ProgrammingIII\COCS308-MiniProject\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\COCS308-ProgrammingIII\COCS308-MiniProject\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.Owin.dll
+D:\COCS308-ProgrammingIII\COCS308-MiniProject\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\COCS308-ProgrammingIII\COCS308-MiniProject\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.Owin.Security.Cookies.dll
+D:\COCS308-ProgrammingIII\COCS308-MiniProject\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.Owin.Security.dll
+D:\COCS308-ProgrammingIII\COCS308-MiniProject\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.Owin.Security.Facebook.dll
+D:\COCS308-ProgrammingIII\COCS308-MiniProject\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.Owin.Security.Google.dll
+D:\COCS308-ProgrammingIII\COCS308-MiniProject\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\COCS308-ProgrammingIII\COCS308-MiniProject\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.Owin.Security.OAuth.dll
+D:\COCS308-ProgrammingIII\COCS308-MiniProject\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.Owin.Security.Twitter.dll
+D:\COCS308-ProgrammingIII\COCS308-MiniProject\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\COCS308-ProgrammingIII\COCS308-MiniProject\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.ScriptManager.WebForms.dll
+D:\COCS308-ProgrammingIII\COCS308-MiniProject\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.Web.Infrastructure.dll
+D:\COCS308-ProgrammingIII\COCS308-MiniProject\Lab07ShopToys\WingtipToys\WingtipToys\bin\Newtonsoft.Json.dll
+D:\COCS308-ProgrammingIII\COCS308-MiniProject\Lab07ShopToys\WingtipToys\WingtipToys\bin\Owin.dll
+D:\COCS308-ProgrammingIII\COCS308-MiniProject\Lab07ShopToys\WingtipToys\WingtipToys\bin\System.Web.Optimization.dll
+D:\COCS308-ProgrammingIII\COCS308-MiniProject\Lab07ShopToys\WingtipToys\WingtipToys\bin\System.Web.Providers.dll
+D:\COCS308-ProgrammingIII\COCS308-MiniProject\Lab07ShopToys\WingtipToys\WingtipToys\bin\WebGrease.dll
+D:\COCS308-ProgrammingIII\COCS308-MiniProject\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.AI.DependencyCollector.xml
+D:\COCS308-ProgrammingIII\COCS308-MiniProject\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\COCS308-ProgrammingIII\COCS308-MiniProject\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.AI.Web.xml
+D:\COCS308-ProgrammingIII\COCS308-MiniProject\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.AI.WindowsServer.xml
+D:\COCS308-ProgrammingIII\COCS308-MiniProject\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.ApplicationInsights.xml
+D:\COCS308-ProgrammingIII\COCS308-MiniProject\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\COCS308-ProgrammingIII\COCS308-MiniProject\Lab07ShopToys\WingtipToys\WingtipToys\bin\System.Web.Optimization.xml
+D:\COCS308-ProgrammingIII\COCS308-MiniProject\Lab07ShopToys\WingtipToys\WingtipToys\bin\Antlr3.Runtime.pdb
+D:\COCS308-ProgrammingIII\COCS308-MiniProject\Lab07ShopToys\WingtipToys\WingtipToys\bin\Newtonsoft.Json.xml
+D:\COCS308-ProgrammingIII\COCS308-MiniProject\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\COCS308-ProgrammingIII\COCS308-MiniProject\Lab07ShopToys\WingtipToys\WingtipToys\bin\EntityFramework.xml
+D:\COCS308-ProgrammingIII\COCS308-MiniProject\Lab07ShopToys\WingtipToys\WingtipToys\bin\EntityFramework.SqlServer.xml
+D:\COCS308-ProgrammingIII\COCS308-MiniProject\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.AspNet.Identity.Core.xml
+D:\COCS308-ProgrammingIII\COCS308-MiniProject\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\COCS308-ProgrammingIII\COCS308-MiniProject\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\COCS308-ProgrammingIII\COCS308-MiniProject\Lab07ShopToys\WingtipToys\WingtipToys\bin\System.Web.Providers.xml
+D:\COCS308-ProgrammingIII\COCS308-MiniProject\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.Owin.xml
+D:\COCS308-ProgrammingIII\COCS308-MiniProject\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\COCS308-ProgrammingIII\COCS308-MiniProject\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.Owin.Security.xml
+D:\COCS308-ProgrammingIII\COCS308-MiniProject\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.Owin.Security.Facebook.xml
+D:\COCS308-ProgrammingIII\COCS308-MiniProject\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.Owin.Security.Cookies.xml
+D:\COCS308-ProgrammingIII\COCS308-MiniProject\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.Owin.Security.Google.xml
+D:\COCS308-ProgrammingIII\COCS308-MiniProject\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.Owin.Security.Twitter.xml
+D:\COCS308-ProgrammingIII\COCS308-MiniProject\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\COCS308-ProgrammingIII\COCS308-MiniProject\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.Owin.Security.OAuth.xml
+D:\COCS308-ProgrammingIII\COCS308-MiniProject\Lab07ShopToys\WingtipToys\WingtipToys\obj\Debug\WingtipToys.csproj.AssemblyReference.cache
+D:\COCS308-ProgrammingIII\COCS308-MiniProject\Lab07ShopToys\WingtipToys\WingtipToys\obj\Debug\WingtipToys.csproj.CoreCompileInputs.cache
+D:\COCS308-ProgrammingIII\COCS308-MiniProject\Lab07ShopToys\WingtipToys\WingtipToys\obj\Debug\WingtipToys.csproj.CopyComplete
+D:\COCS308-ProgrammingIII\COCS308-MiniProject\Lab07ShopToys\WingtipToys\WingtipToys\obj\Debug\WingtipToys.dll
+D:\COCS308-ProgrammingIII\COCS308-MiniProject\Lab07ShopToys\WingtipToys\WingtipToys\obj\Debug\WingtipToys.pdb
+C:\Users\Smart\Desktop\asp.net project\Lab07ShopToys (2)\Lab07ShopToys\WingtipToys\WingtipToys\bin\ApplicationInsights.config
+C:\Users\Smart\Desktop\asp.net project\Lab07ShopToys (2)\Lab07ShopToys\WingtipToys\WingtipToys\bin\roslyn\csc.exe
+C:\Users\Smart\Desktop\asp.net project\Lab07ShopToys (2)\Lab07ShopToys\WingtipToys\WingtipToys\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Smart\Desktop\asp.net project\Lab07ShopToys (2)\Lab07ShopToys\WingtipToys\WingtipToys\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Smart\Desktop\asp.net project\Lab07ShopToys (2)\Lab07ShopToys\WingtipToys\WingtipToys\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Smart\Desktop\asp.net project\Lab07ShopToys (2)\Lab07ShopToys\WingtipToys\WingtipToys\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Smart\Desktop\asp.net project\Lab07ShopToys (2)\Lab07ShopToys\WingtipToys\WingtipToys\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Smart\Desktop\asp.net project\Lab07ShopToys (2)\Lab07ShopToys\WingtipToys\WingtipToys\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Smart\Desktop\asp.net project\Lab07ShopToys (2)\Lab07ShopToys\WingtipToys\WingtipToys\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Smart\Desktop\asp.net project\Lab07ShopToys (2)\Lab07ShopToys\WingtipToys\WingtipToys\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Smart\Desktop\asp.net project\Lab07ShopToys (2)\Lab07ShopToys\WingtipToys\WingtipToys\bin\roslyn\vbc.exe
+C:\Users\Smart\Desktop\asp.net project\Lab07ShopToys (2)\Lab07ShopToys\WingtipToys\WingtipToys\bin\roslyn\VBCSCompiler.exe
+C:\Users\Smart\Desktop\asp.net project\Lab07ShopToys (2)\Lab07ShopToys\WingtipToys\WingtipToys\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Smart\Desktop\asp.net project\Lab07ShopToys (2)\Lab07ShopToys\WingtipToys\WingtipToys\bin\WingtipToys.dll.config
+C:\Users\Smart\Desktop\asp.net project\Lab07ShopToys (2)\Lab07ShopToys\WingtipToys\WingtipToys\bin\WingtipToys.dll
+C:\Users\Smart\Desktop\asp.net project\Lab07ShopToys (2)\Lab07ShopToys\WingtipToys\WingtipToys\bin\WingtipToys.pdb
+C:\Users\Smart\Desktop\asp.net project\Lab07ShopToys (2)\Lab07ShopToys\WingtipToys\WingtipToys\bin\Antlr3.Runtime.dll
+C:\Users\Smart\Desktop\asp.net project\Lab07ShopToys (2)\Lab07ShopToys\WingtipToys\WingtipToys\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Smart\Desktop\asp.net project\Lab07ShopToys (2)\Lab07ShopToys\WingtipToys\WingtipToys\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Smart\Desktop\asp.net project\Lab07ShopToys (2)\Lab07ShopToys\WingtipToys\WingtipToys\bin\EntityFramework.dll
+C:\Users\Smart\Desktop\asp.net project\Lab07ShopToys (2)\Lab07ShopToys\WingtipToys\WingtipToys\bin\EntityFramework.SqlServer.dll
+C:\Users\Smart\Desktop\asp.net project\Lab07ShopToys (2)\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Smart\Desktop\asp.net project\Lab07ShopToys (2)\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Smart\Desktop\asp.net project\Lab07ShopToys (2)\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Smart\Desktop\asp.net project\Lab07ShopToys (2)\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Smart\Desktop\asp.net project\Lab07ShopToys (2)\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.AI.Web.dll
+C:\Users\Smart\Desktop\asp.net project\Lab07ShopToys (2)\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Smart\Desktop\asp.net project\Lab07ShopToys (2)\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Smart\Desktop\asp.net project\Lab07ShopToys (2)\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Smart\Desktop\asp.net project\Lab07ShopToys (2)\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Smart\Desktop\asp.net project\Lab07ShopToys (2)\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Smart\Desktop\asp.net project\Lab07ShopToys (2)\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Smart\Desktop\asp.net project\Lab07ShopToys (2)\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Smart\Desktop\asp.net project\Lab07ShopToys (2)\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Smart\Desktop\asp.net project\Lab07ShopToys (2)\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.Owin.dll
+C:\Users\Smart\Desktop\asp.net project\Lab07ShopToys (2)\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Smart\Desktop\asp.net project\Lab07ShopToys (2)\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Smart\Desktop\asp.net project\Lab07ShopToys (2)\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.Owin.Security.dll
+C:\Users\Smart\Desktop\asp.net project\Lab07ShopToys (2)\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Smart\Desktop\asp.net project\Lab07ShopToys (2)\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Smart\Desktop\asp.net project\Lab07ShopToys (2)\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Smart\Desktop\asp.net project\Lab07ShopToys (2)\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Smart\Desktop\asp.net project\Lab07ShopToys (2)\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Smart\Desktop\asp.net project\Lab07ShopToys (2)\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Smart\Desktop\asp.net project\Lab07ShopToys (2)\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Smart\Desktop\asp.net project\Lab07ShopToys (2)\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Smart\Desktop\asp.net project\Lab07ShopToys (2)\Lab07ShopToys\WingtipToys\WingtipToys\bin\Newtonsoft.Json.dll
+C:\Users\Smart\Desktop\asp.net project\Lab07ShopToys (2)\Lab07ShopToys\WingtipToys\WingtipToys\bin\Owin.dll
+C:\Users\Smart\Desktop\asp.net project\Lab07ShopToys (2)\Lab07ShopToys\WingtipToys\WingtipToys\bin\System.Web.Optimization.dll
+C:\Users\Smart\Desktop\asp.net project\Lab07ShopToys (2)\Lab07ShopToys\WingtipToys\WingtipToys\bin\System.Web.Providers.dll
+C:\Users\Smart\Desktop\asp.net project\Lab07ShopToys (2)\Lab07ShopToys\WingtipToys\WingtipToys\bin\WebGrease.dll
+C:\Users\Smart\Desktop\asp.net project\Lab07ShopToys (2)\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Smart\Desktop\asp.net project\Lab07ShopToys (2)\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Smart\Desktop\asp.net project\Lab07ShopToys (2)\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.AI.Web.xml
+C:\Users\Smart\Desktop\asp.net project\Lab07ShopToys (2)\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Smart\Desktop\asp.net project\Lab07ShopToys (2)\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Smart\Desktop\asp.net project\Lab07ShopToys (2)\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Smart\Desktop\asp.net project\Lab07ShopToys (2)\Lab07ShopToys\WingtipToys\WingtipToys\bin\System.Web.Optimization.xml
+C:\Users\Smart\Desktop\asp.net project\Lab07ShopToys (2)\Lab07ShopToys\WingtipToys\WingtipToys\bin\Antlr3.Runtime.pdb
+C:\Users\Smart\Desktop\asp.net project\Lab07ShopToys (2)\Lab07ShopToys\WingtipToys\WingtipToys\bin\Newtonsoft.Json.xml
+C:\Users\Smart\Desktop\asp.net project\Lab07ShopToys (2)\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Smart\Desktop\asp.net project\Lab07ShopToys (2)\Lab07ShopToys\WingtipToys\WingtipToys\bin\EntityFramework.xml
+C:\Users\Smart\Desktop\asp.net project\Lab07ShopToys (2)\Lab07ShopToys\WingtipToys\WingtipToys\bin\EntityFramework.SqlServer.xml
+C:\Users\Smart\Desktop\asp.net project\Lab07ShopToys (2)\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Smart\Desktop\asp.net project\Lab07ShopToys (2)\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Smart\Desktop\asp.net project\Lab07ShopToys (2)\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Smart\Desktop\asp.net project\Lab07ShopToys (2)\Lab07ShopToys\WingtipToys\WingtipToys\bin\System.Web.Providers.xml
+C:\Users\Smart\Desktop\asp.net project\Lab07ShopToys (2)\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.Owin.xml
+C:\Users\Smart\Desktop\asp.net project\Lab07ShopToys (2)\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Smart\Desktop\asp.net project\Lab07ShopToys (2)\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.Owin.Security.xml
+C:\Users\Smart\Desktop\asp.net project\Lab07ShopToys (2)\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Smart\Desktop\asp.net project\Lab07ShopToys (2)\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Smart\Desktop\asp.net project\Lab07ShopToys (2)\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Smart\Desktop\asp.net project\Lab07ShopToys (2)\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Smart\Desktop\asp.net project\Lab07ShopToys (2)\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Smart\Desktop\asp.net project\Lab07ShopToys (2)\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Smart\Desktop\asp.net project\Lab07ShopToys (2)\Lab07ShopToys\WingtipToys\WingtipToys\obj\Debug\WingtipToys.csproj.CoreCompileInputs.cache
+C:\Users\Smart\Desktop\asp.net project\Lab07ShopToys (2)\Lab07ShopToys\WingtipToys\WingtipToys\obj\Debug\WingtipToys.csproj.CopyComplete
+C:\Users\Smart\Desktop\asp.net project\Lab07ShopToys (2)\Lab07ShopToys\WingtipToys\WingtipToys\obj\Debug\WingtipToys.dll
+C:\Users\Smart\Desktop\asp.net project\Lab07ShopToys (2)\Lab07ShopToys\WingtipToys\WingtipToys\obj\Debug\WingtipToys.pdb
+C:\Users\Smart\Desktop\asp.net project\Lab07ShopToys (2)\Lab07ShopToys\WingtipToys\WingtipToys\obj\Debug\WingtipToys.csprojAssemblyReference.cache
+C:\Users\afnan\Desktop\Lab07ShopToys\WingtipToys\WingtipToys\bin\ApplicationInsights.config
+C:\Users\afnan\Desktop\Lab07ShopToys\WingtipToys\WingtipToys\bin\roslyn\csc.exe
+C:\Users\afnan\Desktop\Lab07ShopToys\WingtipToys\WingtipToys\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\afnan\Desktop\Lab07ShopToys\WingtipToys\WingtipToys\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\afnan\Desktop\Lab07ShopToys\WingtipToys\WingtipToys\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\afnan\Desktop\Lab07ShopToys\WingtipToys\WingtipToys\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\afnan\Desktop\Lab07ShopToys\WingtipToys\WingtipToys\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\afnan\Desktop\Lab07ShopToys\WingtipToys\WingtipToys\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\afnan\Desktop\Lab07ShopToys\WingtipToys\WingtipToys\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\afnan\Desktop\Lab07ShopToys\WingtipToys\WingtipToys\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\afnan\Desktop\Lab07ShopToys\WingtipToys\WingtipToys\bin\roslyn\vbc.exe
+C:\Users\afnan\Desktop\Lab07ShopToys\WingtipToys\WingtipToys\bin\roslyn\VBCSCompiler.exe
+C:\Users\afnan\Desktop\Lab07ShopToys\WingtipToys\WingtipToys\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\afnan\Desktop\Lab07ShopToys\WingtipToys\WingtipToys\bin\Antlr3.Runtime.dll
+C:\Users\afnan\Desktop\Lab07ShopToys\WingtipToys\WingtipToys\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\afnan\Desktop\Lab07ShopToys\WingtipToys\WingtipToys\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\afnan\Desktop\Lab07ShopToys\WingtipToys\WingtipToys\bin\EntityFramework.dll
+C:\Users\afnan\Desktop\Lab07ShopToys\WingtipToys\WingtipToys\bin\EntityFramework.SqlServer.dll
+C:\Users\afnan\Desktop\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\afnan\Desktop\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\afnan\Desktop\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\afnan\Desktop\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\afnan\Desktop\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.AI.Web.dll
+C:\Users\afnan\Desktop\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\afnan\Desktop\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.ApplicationInsights.dll
+C:\Users\afnan\Desktop\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\afnan\Desktop\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\afnan\Desktop\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\afnan\Desktop\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\afnan\Desktop\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\afnan\Desktop\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\afnan\Desktop\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.Owin.dll
+C:\Users\afnan\Desktop\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\afnan\Desktop\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\afnan\Desktop\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.Owin.Security.dll
+C:\Users\afnan\Desktop\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\afnan\Desktop\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\afnan\Desktop\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\afnan\Desktop\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\afnan\Desktop\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\afnan\Desktop\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\afnan\Desktop\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\afnan\Desktop\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\afnan\Desktop\Lab07ShopToys\WingtipToys\WingtipToys\bin\Newtonsoft.Json.dll
+C:\Users\afnan\Desktop\Lab07ShopToys\WingtipToys\WingtipToys\bin\Owin.dll
+C:\Users\afnan\Desktop\Lab07ShopToys\WingtipToys\WingtipToys\bin\System.Web.Optimization.dll
+C:\Users\afnan\Desktop\Lab07ShopToys\WingtipToys\WingtipToys\bin\System.Web.Providers.dll
+C:\Users\afnan\Desktop\Lab07ShopToys\WingtipToys\WingtipToys\bin\WebGrease.dll
+C:\Users\afnan\Desktop\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\afnan\Desktop\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\afnan\Desktop\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.AI.Web.xml
+C:\Users\afnan\Desktop\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\afnan\Desktop\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.ApplicationInsights.xml
+C:\Users\afnan\Desktop\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\afnan\Desktop\Lab07ShopToys\WingtipToys\WingtipToys\bin\System.Web.Optimization.xml
+C:\Users\afnan\Desktop\Lab07ShopToys\WingtipToys\WingtipToys\bin\Antlr3.Runtime.pdb
+C:\Users\afnan\Desktop\Lab07ShopToys\WingtipToys\WingtipToys\bin\Newtonsoft.Json.xml
+C:\Users\afnan\Desktop\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\afnan\Desktop\Lab07ShopToys\WingtipToys\WingtipToys\bin\EntityFramework.xml
+C:\Users\afnan\Desktop\Lab07ShopToys\WingtipToys\WingtipToys\bin\EntityFramework.SqlServer.xml
+C:\Users\afnan\Desktop\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\afnan\Desktop\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\afnan\Desktop\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\afnan\Desktop\Lab07ShopToys\WingtipToys\WingtipToys\bin\System.Web.Providers.xml
+C:\Users\afnan\Desktop\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.Owin.xml
+C:\Users\afnan\Desktop\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\afnan\Desktop\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.Owin.Security.xml
+C:\Users\afnan\Desktop\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\afnan\Desktop\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\afnan\Desktop\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\afnan\Desktop\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\afnan\Desktop\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\afnan\Desktop\Lab07ShopToys\WingtipToys\WingtipToys\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\afnan\Desktop\Lab07ShopToys\WingtipToys\WingtipToys\obj\Debug\WingtipToys.csproj.AssemblyReference.cache
+C:\Users\afnan\Desktop\Lab07ShopToys\WingtipToys\WingtipToys\obj\Debug\WingtipToys.csproj.CoreCompileInputs.cache
+C:\Users\afnan\Desktop\Lab07ShopToys\WingtipToys\WingtipToys\obj\Debug\WingtipToys.csproj.CopyComplete
+C:\Users\afnan\Desktop\Lab07ShopToys\WingtipToys\WingtipToys\bin\clothingstore.dll.config
+C:\Users\afnan\Desktop\Lab07ShopToys\WingtipToys\WingtipToys\bin\clothingstore.dll
+C:\Users\afnan\Desktop\Lab07ShopToys\WingtipToys\WingtipToys\bin\clothingstore.pdb
+C:\Users\afnan\Desktop\Lab07ShopToys\WingtipToys\WingtipToys\obj\Debug\clothingstore.dll
+C:\Users\afnan\Desktop\Lab07ShopToys\WingtipToys\WingtipToys\obj\Debug\clothingstore.pdb

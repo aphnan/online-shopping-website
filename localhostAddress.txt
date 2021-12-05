@@ -1,0 +1,11 @@
+https://localhost:44300/
+
+https://localhost:44302/
+
+https://localhost:44302/signin-google
+
+client ID
+1063882728037-07jlnjc3vkoivesrs7pa805n5fn91sdd.apps.googleusercontent.com
+
+client secret
+bWf6TeZ0zRyIo2XHPDeA5xWD
