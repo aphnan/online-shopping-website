@@ -6,13 +6,7 @@ ASP.NET Web Forms application using Visual Studio 2019 and ASP.NET to create a s
 Microsoft SQL Server 2012 LocalDB
 
 **Technology Used in the Project:**
-HTML
-Bootstrap
-CSS
-JS
-C#
-MS SQL server database
-Visual Studio 2019
+
 
 1-HTML
 2-Bootstrap
