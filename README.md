@@ -1,7 +1,7 @@
 # Eshopping
 ASP.NET Web Forms application using Visual Studio 2019 and ASP.NET to create a simplified web page for selling clothing items online.
 
-__ Database Used __
+ Database Used 
 
 Microsoft SQL Server 2012 LocalDB
 
