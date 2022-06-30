@@ -2,17 +2,17 @@
 ASP.NET Web Forms application using Visual Studio 2019 and ASP.NET to create a simplified web page for selling clothing items online.
 
 #  Database Used
-Microsoft SQL Server 2012 LocalDB
+*Microsoft SQL Server 2012 LocalDB
 
-* Technology Used in the Project:
+# Technology Used in the Project:
 
-1-HTML
-2-Bootstrap
-3-CSS
-4-JS
-5-C#
-6-MS SQL Server Database
-7-Visual Studio 2019
+*HTML
+*Bootstrap
+*CSS
+*JS
+*C#
+*MS SQL Server Database
+*Visual Studio 2019
 
 
 Application scenarios and tasks:
