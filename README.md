@@ -9,15 +9,10 @@ Microsoft SQL Server 2012 LocalDB
 
 1-HTML
 2-Bootstrap
-
 3-CSS
-
 4-JS
-
 5-C#
-
 6-MS SQL Server Database
-
 7-Visual Studio 2019
 
 
