@@ -16,7 +16,6 @@ ASP.NET Web Forms application using Visual Studio 2019 and ASP.NET to create a l
 # Application scenarios and tasks:
 * Creating, reviewing, and running a new project
 * Creating a database structure
-* Initializing and seeding a database
 * Customizing the UI with styles, graphics, and a master page
 * Adding pages and navigation
 * Displaying menu details and product data
